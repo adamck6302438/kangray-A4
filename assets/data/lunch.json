@@ -1,0 +1,19 @@
+{
+    "lunch":[
+        {
+            "name": "Cheeseburger",
+            "price": 6.99,
+            "calories": 815
+        },
+        {
+            "name": "Chicken Nuggets",
+            "price": 7.99,
+            "calories": 478
+        },
+        {
+            "name": "Kid's Meal",
+            "price": 5.99,
+            "calories": 729
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dinner":[
+        {
+            "name": "Spaghetti",
+            "price": 9.99,
+            "calories": 876
+        },
+        {
+            "name": "Steak and Fries",
+            "price": 24.99,
+            "calories": 1291
+        },
+        {
+            "name": "Roasted Lamb",
+            "price": 22.99,
+            "calories": 979
+        }
+    ]
+}

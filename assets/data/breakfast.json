@@ -1,0 +1,19 @@
+{
+    "breakfast":[
+        {
+            "name": "Egg Benedict",
+            "price": 6.99,
+            "calories": 512
+        },
+        {
+            "name": "American Breakfast",
+            "price": 12.99,
+            "calories": 1202
+        },
+        {
+            "name": "Farmer's Wrap",
+            "price": 5.99,
+            "calories": 632
+        }
+    ]
+}
